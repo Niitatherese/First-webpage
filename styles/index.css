@@ -1,0 +1,36 @@
+h1 {
+    color: orange;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: red;
+}
+
+
+h4 {
+    color: grey;
+}
+i {
+    color: rgb(253, 253, 253);
+}
+
+li {
+    text-align: center;
+}
+
+
+body {
+    background-image: url(../images/space.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+
+
+
+
+
